@@ -3,11 +3,11 @@
 
 Module 1 Challenge
 
-The goal of the assignment to is modify the code and make it accessibily for the user or customer to optimized it search engine. 
+The goal of the assignment to is modify the code and make it accessibily for the user or customer to optimized its search engine. 
 
-The purpose of this asssignment is organize and have the code readable. 
+The purpose of this asssignment is to organize and have the code readable. 
 
-I have learn to assigned classes to html code, replace non-semantic elements to semantic elements and removing redundant lines of code. 
+I have learn to assigned classes to html code, replace non-semantic elements with semantic elements and removing redundant lines of code. 
 
 
 ## Screenshots
